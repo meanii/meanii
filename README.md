@@ -2,7 +2,7 @@
 
 ### A bit about me
 
-I like ( golang ?? nodeje ?? python ), stay in home, nature, !rainy days of the IN, and luing. (and nvim btw) 🖥️
+I like ( golang ?? nodejs ?? python ), stay in home, nature, !rainy days of the IN, and luing. (and nvim btw) 🖥️
 
 Currently, I work as a backend and DevOps engineer.
 
